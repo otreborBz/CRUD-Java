@@ -1,5 +1,7 @@
 <h1>Aplicação Java CRUD com Swing</h1>
 
+![javaCRUD](https://github.com/DevSistemasCod/exercicios_enum/assets/116233666/c99d408c-4dc8-4f6b-ac08-19933a6d52a4)
+
 <p>Esta é uma aplicação Java CRUD (Create, Read, Update, Delete) desenvolvida utilizando a biblioteca Swing para a interface gráfica. O objetivo dessa aplicação é permitir que o usuário realize operações básicas de gerenciamento de dados em uma fonte de dados.</p>
 
 <h2>Funcionalidades</h2>
