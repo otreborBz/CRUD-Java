@@ -61,6 +61,6 @@
 
 <h2>Contato</h2>
 
-<p>Se você tiver alguma dúvida, sugestão ou precisar de suporte, entre em contato pelo meu e-mail: <a href="mailto:rlcarval38@gmail.com">seuemail@example.com</a></p>
+<p>Se você tiver alguma dúvida, sugestão ou precisar de suporte, entre em contato pelo meu e-mail: <a href="mailto:rlcarval38@gmail.com">rlcarval38@gmail.com</a></p>
 
 <p>Espero que esta aplicação seja útil e ajude você a entender como criar uma aplicação Java CRUD utilizando a biblioteca Swing. Divirta-se codificando! 😊</p>
